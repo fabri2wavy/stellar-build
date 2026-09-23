@@ -1,0 +1,11 @@
+
+# Archivos generados por Rust
+**/target/
+
+# Credenciales locales y variables de entorno
+.stellar/identity/
+.soroban/identity/
+.env
+.env.*
+!.env.example
+.DS_Store

@@ -1,0 +1,16 @@
+VERSION = "1.0.0"
+NETWORK_PASSPHRASE = "Test SDF Network ; September 2015"
+
+[[CURRENCIES]]
+code = "SBDEMO"
+issuer = "GDBUUNNDPYTL4TJ62DTZDS4WEYETNY3A34ERP24R77QDD2AGN5BYNY3V"
+status = "test"
+display_decimals = 2
+name = "Stellar Build Demo"
+desc = "Token educativo que representa participaciones simuladas en un activo ficticio para el bootcamp RWA Launchpad."
+conditions = "Solo para pruebas en Stellar Testnet. Sin respaldo en activos reales, valor monetario ni derechos de propiedad."
+
+[DOCUMENTATION]
+ORG_NAME = "Stellar Build - Proyecto educativo"
+ORG_OFFICIAL_EMAIL = "fabri2wavy@gmail.com"
+ORG_URL = "https://github.com/fabri2wavy/stellar-build"
